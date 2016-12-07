@@ -1,0 +1,14 @@
+{
+  "name": "markerwithlabel",
+  "_cacheHeaders": {
+    "ETag": "\"460//tags/markerwithlabel/1.1.9/src/markerwithlabel.js\"",
+    "Last-Modified": "Wed, 05 Mar 2014 20:12:21 GMT",
+    "Content-Length": "24868",
+    "Content-Type": "text/javascript"
+  },
+  "_release": "e-tag:460//tags",
+  "main": "index.js",
+  "_source": "http://google-maps-utility-library-v3.googlecode.com/svn/tags/markerwithlabel/1.1.9/src/markerwithlabel.js",
+  "_target": "*",
+  "_originalSource": "http://google-maps-utility-library-v3.googlecode.com/svn/tags/markerwithlabel/1.1.9/src/markerwithlabel.js"
+}
